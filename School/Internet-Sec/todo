@@ -1,0 +1,26 @@
+Consider the following scenario:
+The security manager of your organization has approached you to explain the new threat of ransomware to the organization.
+Compose a document in which you explain this threat. This scholarly activity has three parts:
+Explain the definition of ransomware.
+Summarize the WannaCry threat.
+Which risk register would you use to identify WannaCry?
+Your assignment should be a minimum of two pages in length, double-spaced. You must utilize at least one outside source. Use your own words, and include citations and references as needed to avoid plagiarism. All sources used must be referenced; paraphrased and quoted material must have accompanying citations and be cited per APA guidelines.
+
+
+
+
+sudo pacman -U /var/cache/pacman/pkg/code-1.39.2-1-x86_64.pkg.tar.xz
+
+Can't comment: Yeah thank you:
+It is fixed:
+sudo pacman -S code
+
+now brings Packages (2) electron6-6.1.1-1  code-1.40.0-2
+
+
+English 
+Follow the directions below for the completion of the Annotated Bibliography assignment for Unit II. If you have questions, please email your professor for assistance.
+Purpose: The purpose of the annotated bibliography is to summarize the sources that you have gathered to support your research proposal project. These summaries help you to think about the complex arguments presented in your sources.
+Description: In this assignment, you will create an annotated bibliography consisting of seven sources. Each entry will consist of a reference list citation, a summary of the source’s information, and a one-sentence assessment. Each annotation should be between 150 to 200 words. If an entry is shorter than 150 words, it is likely you have not fully developed your summary, and this lack of development can severely impact your grade for this assignment.
+Example: Click  here to access the annotated bibliography example.
+As always, you may also seek out the guidance of the Writing Center; the Writing specialists are always there to assist you with your writing, comprehension, and APA formatting. Be advised that Writing Specialist require up to two business days to return requests. If you have questions concerning APA style or your writing assignment, you can contact the Writing Center at teamsucceed@columbiasouthern.edu or by phone at ext. 6538.

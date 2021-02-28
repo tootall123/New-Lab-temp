@@ -1,0 +1,7 @@
+﻿[Desktop Entry]
+Name=Setup Assistant
+Comment=Starts Garudas setup assistant
+Icon=variety
+Exec=alacritty -e /usr/bin/setup-assistant && rm -rf ~/.config/autostart/setup-assistant.desktop
+Terminal=false
+Type=Application

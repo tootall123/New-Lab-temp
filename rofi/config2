@@ -40,7 +40,7 @@ configuration {
 /*	line-padding: 1;*/
 /*	filter: ;*/
 /*	separator-style: "dash";*/
-/*	hide-scrollbar: true;*/
+/*	hide-scrollbar: false;*/
 /*	fullscreen: false;*/
 	fake-transparency: true;
 /*	dpi: -1;*/

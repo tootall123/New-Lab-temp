@@ -1,0 +1,8 @@
+#URLS 
+
+http://www.rss.cnn.com/rss/cnn_topstories.rss
+http://reddit.com/r/UNIXPORN/.rss
+https://news.ycombinator.com/rss
+#https://backend.deviantart.com/rss.xml?type=deviation&q=sort%3Atime+SEARCHQUERY
+#https://github.com/USERNAME/PROJECT/commits/master.atom
+https://damng.github.io/hackernews-rss-with-inlined-content/output.rss
